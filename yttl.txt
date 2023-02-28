@@ -1,0 +1,45 @@
+://youtube.com
+:title
+"videoDetails":
+"title":
+"	"
+:author
+"videoDetails":
+"author":
+"	"
+:viewCount
+"videoDetails":
+"viewCount":
+"	"
+
+://youtu.be
+:title
+"videoDetails":
+"title":
+"	"
+:author
+"videoDetails":
+"author":
+"	"
+:viewCount
+"videoDetails":
+"viewCount":
+"	"
+
+://m.youtube.com
+:title
+"videoDetails":
+"title":
+"	"
+:author
+"videoDetails":
+"author":
+"	"
+:viewCount
+"videoDetails":
+"viewCount":
+"	"
+
+://www.twitch.tv
+:author
+<meta name="title" content="	"/>
