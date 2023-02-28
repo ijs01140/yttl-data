@@ -40,7 +40,7 @@
 "viewCount":
 "	"
 
-://www.twitch.tv
+://twitch.tv
 :title
 "name":
 "	"
