@@ -1,11 +1,11 @@
 ://youtube.com
-:title
-"videoDetails":
-"title":
-"	"
 :author
 "videoDetails":
 "author":
+"	"
+:title
+"videoDetails":
+"title":
 "	"
 :viewCount
 "videoDetails":
@@ -13,13 +13,13 @@
 "	"
 
 ://youtu.be
-:title
-"videoDetails":
-"title":
-"	"
 :author
 "videoDetails":
 "author":
+"	"
+:title
+"videoDetails":
+"title":
 "	"
 :viewCount
 "videoDetails":
@@ -27,13 +27,13 @@
 "	"
 
 ://m.youtube.com
-:title
-"videoDetails":
-"title":
-"	"
 :author
 "videoDetails":
 "author":
+"	"
+:title
+"videoDetails":
+"title":
 "	"
 :viewCount
 "videoDetails":
@@ -41,9 +41,9 @@
 "	"
 
 ://twitch.tv
-:title
-"name":
-"	"
 :author
 "name":
-"	"
+"	 - Twitch"
+:title
+"name":
+" - 	"
