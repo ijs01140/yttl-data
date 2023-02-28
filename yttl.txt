@@ -44,6 +44,3 @@
 :author
 "name":
 "	 - Twitch"
-:title
-"name":
- - 	"
