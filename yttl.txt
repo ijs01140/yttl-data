@@ -41,5 +41,9 @@
 "	"
 
 ://www.twitch.tv
+:title
+"name":
+"	"
 :author
-<meta name="title" content="	"/>
+"name":
+"	"
