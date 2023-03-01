@@ -11,6 +11,10 @@
 "videoDetails":
 "viewCount":
 "	"
+:description
+"videoDetails":
+"shortDescription":
+"	"
 
 ://youtu.be
 :author
@@ -25,6 +29,10 @@
 "videoDetails":
 "viewCount":
 "	"
+:description
+"videoDetails":
+"shortDescription":
+"	"
 
 ://m.youtube.com
 :author
@@ -38,6 +46,10 @@
 :viewCount
 "videoDetails":
 "viewCount":
+"	"
+:description
+"videoDetails":
+"shortDescription":
 "	"
 
 ://twitch.tv
