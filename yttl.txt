@@ -1,58 +1,61 @@
-://youtube.com
-:author
-"videoDetails":
-"author":
-"	"
-:title
-"videoDetails":
-"title":
-"	"
-:viewCount
-"videoDetails":
-"viewCount":
-"	"
-:description
-"videoDetails":
-"shortDescription":
-"	"
-
-//://youtu.be
-//:author
-//"videoDetails":
-//"author":
-//"	"
-//:title
-//"videoDetails":
-//"title":
-//"	"
-//:viewCount
-//"videoDetails":
-//"viewCount":
-//"	"
-//:description
-//"videoDetails":
-//"shortDescription":
-//"	"
-
-//://m.youtube.com
-//:author
-//"videoDetails":
-//"author":
-//"	"
-//:title
-//"videoDetails":
-//"title":
-//"	"
-//:viewCount
-//"videoDetails":
-//"viewCount":
-//"	"
-//:description
-//"videoDetails":
-//"shortDescription":
-//"	"
-
-://twitch.tv
-:author
-"name":
-"	 - Twitch"
+{
+	"version": "v2",
+	"resolver": {
+		"": [
+			"youtube.com",
+			"twitch.tv",
+			"soundcloud.com"
+		],
+		"nextnex.com": {
+			"parameter": { "s": "?url=" },
+			"site": [
+				"youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"twitch.tv",
+				"soundcloud.com"
+			]
+		},
+		"nico.7mi.site": {
+			"parameter": { "s": "proxy/?" },
+			"site": [
+				"youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"twitch.tv",
+				"soundcloud.com"
+			]
+		}
+	},
+	"site": {
+		"youtube.com": {
+			"author": {
+				"middle": [ "\"videoDetails\":", "\"author\":" ],
+				"ends": { "s": "\"", "t": "\"" }
+			},
+			"title": {
+				"middle": [ "\"videoDetails\":", "\"title\":" ],
+				"ends": { "s": "\"", "t": "\"" }
+			},
+			"viewCount": {
+				"middle": [ "\"videoDetails\":", "\"viewCount\":" ],
+				"ends": { "s": "\"", "t": "\"" }
+			},
+			"description": {
+				"middle": [ "\"videoDetails\":", "\"shortDescription\":" ],
+				"ends": { "s": "\"", "t": "\"" }
+			}
+		},
+		"twitch.tv": {
+			"author": {
+				"middle": [ "\"name\":" ],
+				"ends": { "s": "\"", "t": " - Twitch\"" }
+			}
+		},
+		"soundcloud.com": {
+			"title": {
+				"ends": { "s": "<title>", "t": "</title>" }
+			}
+		}
+	}
+}
