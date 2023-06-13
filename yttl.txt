@@ -59,7 +59,7 @@
 			"title": {
 				"end": { "s": "<title>", "t": "</title>" }
 			}
-		}
+		},
 		"nicovideo.jp": {
 			"title": {
 				"end": { "s": "<title>", "t": "</title>" }
