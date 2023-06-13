@@ -5,7 +5,8 @@
 			"site": [
 				"youtube.com",
 				"twitch.tv",
-				"soundcloud.com"
+				"soundcloud.com",
+				"nicovideo.jp"
 			]
 		},
 		"nextnex.com": {
