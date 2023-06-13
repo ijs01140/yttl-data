@@ -31,30 +31,30 @@
 		"youtube.com": {
 			"author": {
 				"middle": [ "\"videoDetails\":", "\"author\":" ],
-				"ends": { "s": "\"", "t": "\"" }
+				"end": { "s": "\"", "t": "\"" }
 			},
 			"title": {
 				"middle": [ "\"videoDetails\":", "\"title\":" ],
-				"ends": { "s": "\"", "t": "\"" }
+				"end": { "s": "\"", "t": "\"" }
 			},
 			"viewCount": {
 				"middle": [ "\"videoDetails\":", "\"viewCount\":" ],
-				"ends": { "s": "\"", "t": "\"" }
+				"end": { "s": "\"", "t": "\"" }
 			},
 			"description": {
 				"middle": [ "\"videoDetails\":", "\"shortDescription\":" ],
-				"ends": { "s": "\"", "t": "\"" }
+				"end": { "s": "\"", "t": "\"" }
 			}
 		},
 		"twitch.tv": {
 			"author": {
 				"middle": [ "\"name\":" ],
-				"ends": { "s": "\"", "t": " - Twitch\"" }
+				"end": { "s": "\"", "t": " - Twitch\"" }
 			}
 		},
 		"soundcloud.com": {
 			"title": {
-				"ends": { "s": "<title>", "t": "</title>" }
+				"end": { "s": "<title>", "t": "</title>" }
 			}
 		}
 	}
