@@ -64,7 +64,7 @@
 			"title": {
 				"end": { "s": "<title>", "t": "</title>" }
 			},
-			"title": {
+			"description": {
 				"end": { "s": "\"description\":", "t": "\"" }
 			}
 		}
