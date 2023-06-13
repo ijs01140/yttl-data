@@ -19,6 +19,16 @@
 				"soundcloud.com"
 			]
 		},
+		"t-ne.x0.to": {
+			"parameter": { "s": "?url=" },
+			"site": [
+				"youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"twitch.tv",
+				"soundcloud.com"
+			]
+		},
 		"nico.7mi.site": {
 			"parameter": { "s": "proxy/?" },
 			"site": [
