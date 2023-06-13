@@ -1,11 +1,13 @@
 {
 	"version": "v2",
 	"resolver": {
-		"": [
-			"youtube.com",
-			"twitch.tv",
-			"soundcloud.com"
-		],
+		"": {
+			"site": [
+				"youtube.com",
+				"twitch.tv",
+				"soundcloud.com"
+			]
+		},
 		"nextnex.com": {
 			"parameter": { "s": "?url=" },
 			"site": [
