@@ -47,7 +47,8 @@
 				"m.youtube.com",
 				"youtu.be",
 				"twitch.tv",
-				"soundcloud.com"
+				"soundcloud.com",
+				"nicovideo.jp"
 			]
 		},
 		"nicovrc.net": {
@@ -57,7 +58,8 @@
 				"m.youtube.com",
 				"youtu.be",
 				"twitch.tv",
-				"soundcloud.com"
+				"soundcloud.com",
+				"nicovideo.jp"
 			]
 		}
 	},
