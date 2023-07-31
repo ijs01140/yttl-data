@@ -38,6 +38,16 @@
 				"twitch.tv",
 				"soundcloud.com"
 			]
+		},
+		"nicovrc.net": {
+			"parameter": { "s": "proxy/?" },
+			"site": [
+				"youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"twitch.tv",
+				"soundcloud.com"
+			]
 		}
 	},
 	"site": {
