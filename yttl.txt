@@ -40,7 +40,7 @@
 			]
 		},
 		"nicovrc.net": {
-			"parameter": { "s": "proxy/?" },
+			"parameter": { "s": "proxy/dummy.m3u8?" },
 			"site": [
 				"youtube.com",
 				"m.youtube.com",
