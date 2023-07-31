@@ -29,6 +29,17 @@
 				"soundcloud.com"
 			]
 		},
+		"kvvs.net": {
+			"parameter": { "s": "proxy?url=" },
+			"site": [
+				"youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"twitch.tv",
+				"soundcloud.com",
+				"nicovideo.jp"
+			]
+		},
 		"nico.7mi.site": {
 			"parameter": { "s": "proxy/?" },
 			"site": [
